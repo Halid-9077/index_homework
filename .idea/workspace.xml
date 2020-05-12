@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2fcbdd4-7ab5-4bf4-88e3-cb52fdec1a64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/index_homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/media-queries (1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hd_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_1_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_2_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_3_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_4_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_5_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_6_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_7_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_8_portf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_articles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_mob_header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_hd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spec_img_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spec_img_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spec_img_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +63,30 @@
       <workItem from="1588537876773" duration="4734000" />
       <workItem from="1588760413482" duration="148000" />
       <workItem from="1589309104776" duration="8073000" />
+      <workItem from="1589317375267" duration="162000" />
     </task>
+    <task id="LOCAL-00001" summary="adaptability">
+      <created>1589317447154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589317447154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adaptability" />
+    <option name="LAST_COMMIT_MESSAGE" value="adaptability" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1589317444348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589317444348" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588760559498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -101,6 +95,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589309753830" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1589317492578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589317492578" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589317377287">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
